@@ -2,7 +2,7 @@
 
 ## 🗣️ About Me
 - <b>Backend Developer</b> who is also interested in Frontend and wants to step up the development skills day by day
-- <b>✉️email:</b> devyeony@gmail.com
+- <b>✉️ email:</b> devyeony@gmail.com
 
 ## 🔧 Tech Stacks
 -	<b>Backend:</b> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
