@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=300&section=header&text=Yeonhee%20Hayden%20Kim&desc=Love%20the%20life%20you%20live,%20live%20the%20life%20you%20love&fontColor=F1F7F0&fontSize=50&descSize=17&descAlign=75)
 
-## 🗣️ About Me
+## ✨ About Me
 - <b>Backend Developer</b> who is also interested in Frontend and wants to step up the development skills day by day
 - <b>✉️ email:</b> devyeony@gmail.com
 
