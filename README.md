@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=300&section=header&text=Yeonhee%20Hayden%20Kim&desc=Love%20the%20life%20you%20live,%20live%20the%20life%20you%20love&fontColor=F1F7F0&fontSize=50&descSize=17&descAlign=75)
 
+## 🗣️ About Me
+- <b>Backend Developer</b> who is also interested in Frontend and wants to step up the development skills day by day
+- <b>✉️email:</b> devyeony@gmail.com
+
 ## 🔧 Tech Stacks
 -	<b>Backend:</b> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 -	<b>Frontend:</b> <img src="https://img.shields.io/badge/JavaScript-dbab09?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-e34f26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572b6?style=flat-square&logo=css3&logoColor=white"/>
